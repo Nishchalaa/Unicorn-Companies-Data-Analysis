@@ -1,54 +1,45 @@
-# 🦄 Unicorn Companies Analytics
+# 🦄 Unicorn Companies Analysis
 
-> An exploratory data analysis (EDA) project diving into **Unicorn startups** (private companies valued at $1B+).  
-> Built with Python, pandas, matplotlib, seaborn, and a sprinkle of curiosity ✨.
+This project dives into the world of **Unicorn Companies** (startups valued at $1B+).  
+Using Python and data analysis techniques, we uncover insights about funding patterns, industries, valuations, and geographical trends that define the unicorn landscape.  
 
 ---
 
 ## 📌 Project Overview
-This notebook analyzes the growth patterns of unicorn companies around the globe.  
-The goal: to **uncover trends in valuation, geography, industry distribution, and funding** that explain how these billion-dollar beasts are born.  
-
-Key highlights:
-- Cleaning and preprocessing unicorn dataset  
-- Exploratory Data Analysis (EDA) with statistics & visuals  
-- Visualizations of valuation trends across industries, regions, and years  
-- Insights into the top players driving startup ecosystems  
+- **Goal:** Understand business growth patterns of unicorn companies.  
+- **Approach:** Performed Exploratory Data Analysis (EDA) to summarize trends and create visualizations.  
+- **Dataset:** Publicly available unicorn company dataset.  
 
 ---
 
-## ⚡ Dataset
-- Source: [Public Unicorn dataset] (add link here if available)  
-- Features include:  
-  - Company Name  
-  - Valuation ($B)  
-  - Industry  
-  - Country / City  
-  - Investors  
-  - Date of becoming unicorn  
+## ⚡ Features
+- Data cleaning & preprocessing for consistency.  
+- Exploratory Data Analysis (EDA): stats + descriptive insights.  
+- Visualizations for valuation, funding trends, and global presence.  
+- Industry-wise comparisons and country distributions.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Python** 🐍  
-- **pandas** for data wrangling  
-- **numpy** for number crunching  
-- **matplotlib & seaborn** for plotting pretty charts  
-- **Jupyter Notebook** for exploration  
+- **Language:** Python 🐍  
+- **Libraries:**  
+  - `pandas` → data wrangling  
+  - `numpy` → numerical computations  
+  - `matplotlib` & `seaborn` → data visualization  
+  - `jupyter` → interactive analysis  
 
 ---
 
-## 📊 Exploratory Insights
-Some of the questions this project answers:
-1. Which countries produce the most unicorns? 🌍  
-2. What industries dominate the unicorn list? 🏭  
-3. How has unicorn creation accelerated over the years? 📈  
-4. Who are the top investors backing unicorns? 💸  
+## 📊 Sample Insights
+- Which countries dominate unicorn creation.  
+- How valuations spread across industries.  
+- Funding rounds vs. company age correlation.  
 
 ---
 
 ## 🚀 How to Run
-1. Clone this repo  
+1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/unicorn-companies-eda.git
-   cd unicorn-companies-eda
+   git clone https://github.com/your-username/unicorn-companies-analysis.git
+   cd unicorn-companies-analysis
+2. Install dependencies:
