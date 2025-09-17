@@ -43,3 +43,9 @@ Using Python and data analysis techniques, we uncover insights about funding pat
    git clone https://github.com/your-username/unicorn-companies-analysis.git
    cd unicorn-companies-analysis
 2. Install dependencies:
+  ```bash
+   pip install -r requirements.txt
+3. Launch Jupyter Notebook
+  ```bash
+   jupyter notebook
+
