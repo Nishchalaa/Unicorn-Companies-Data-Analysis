@@ -48,6 +48,3 @@ Using Python and data analysis techniques, we uncover insights about funding pat
 3. Launch Jupyter Notebook:  
    ```bash
    jupyter notebook
-
-
-   
