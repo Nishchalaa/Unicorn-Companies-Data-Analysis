@@ -48,11 +48,3 @@ Using Python and data analysis techniques, we uncover insights about funding pat
 3. Launch Jupyter Notebook:  
    ```bash
    jupyter notebook
-
-📂 Repository Structure
-   ```bash
-📦 unicorn-companies-analysis
-  ┣ 📜 Unicorn_companies.ipynb   # Main notebook
-  ┣ 📜 requirements.txt          # Dependencies
-  ┣ 📜 README.md                 # Project documentation
-  ┗ 📂 data/                     # Dataset (if included)
