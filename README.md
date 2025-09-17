@@ -15,7 +15,7 @@ Using Python and data analysis techniques, we uncover insights about funding pat
 ## ⚡ Features
 - Data cleaning & preprocessing for consistency.  
 - Exploratory Data Analysis (EDA): stats + descriptive insights.  
-- Visualizations for valuation, funding trends, and global presence.  
+- Visualizations for valuation, funding trends, and global presence.  `
 - Industry-wise comparisons and country distributions.  
 
 ---
